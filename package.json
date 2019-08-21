@@ -1,0 +1,28 @@
+{
+  "name": "playing-with-graphql",
+  "version": "1.0.0",
+  "description": "Studying graphql for creating all-new apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtee/playing-with-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "node",
+    "javascript"
+  ],
+  "author": "ahtee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahtee/playing-with-graphql/issues"
+  },
+  "homepage": "https://github.com/ahtee/playing-with-graphql#readme",
+  "dependencies": {
+    "graphql": "^14.4.2",
+    "graphql-relay": "^0.6.0"
+  }
+}
